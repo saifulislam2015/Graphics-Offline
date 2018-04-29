@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1523823310 source:c:\users\asus\downloads\offline 3\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<bits/stdc++.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 c:\users\asus\downloads\offline 3\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1523823425 source:f:\l4 t2\cse 410\offline 3\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<bits/stdc++.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 f:\l4 t2\cse 410\offline 3\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
